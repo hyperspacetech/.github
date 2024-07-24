@@ -7,11 +7,13 @@ simple showcase prototyping some of the latest technology
 
 * Microsoft .NET 8 Blazor WebAssembly Front End ✅
 
-* Self-contained Docker container utilising NGINX ingress proxy ✅
-
 * CI/CD via GitHub Actions ✅
 
-* Deployed on Microsoft Azure Container Apps ✅
+~~* Self-contained Docker container utilising NGINX ingress proxy ✅~~
+
+~~* Deployed on Microsoft Azure Container Apps ✅~~
+
+* Deployed as Azure Static Web App ✅
 
 * Encrypted local storage of notes ✅
 
