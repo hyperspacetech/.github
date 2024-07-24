@@ -9,7 +9,7 @@ simple showcase prototyping some of the latest technology
 
 Microsoft .NET 8 Blazor WebAssembly [....✅]
 
-Self-contained Docker container utilising NGINX ingress proxy [....✅]
+* Self-contained Docker container utilising NGINX ingress proxy [....✅]
 
 CI/CD via GitHub Actions [....✅]
 
