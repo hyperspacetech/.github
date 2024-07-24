@@ -25,6 +25,8 @@ simple showcase prototyping some of the latest technology
 
 * Apple Store submission [🕛]
 
+* Azure Functions Back End API (REST / Google Protobuf) [🕛]
+
 * PostgreSQL database for note persistence [🕛]
 
 * Google / Microsoft / Social login (Keycloak) [🕛]
