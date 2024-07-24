@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**Hyperspace Technologies** 
+## **Hyperspace Technologies** 
 
 **https://hyper.ky** 
 
