@@ -28,3 +28,9 @@ simple showcase prototyping some of the latest technology
 * Google / Microsoft / Social login (Keycloak) [🕛]
 
 * 2FA [🕛]
+  
+* Charts demo [🕛]
+  
+* Maps demo (Google Maps / ArcGIS?) [🕛]
+
+* Offline mode demo [🕛]
