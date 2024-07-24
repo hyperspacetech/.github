@@ -3,17 +3,17 @@
 simple showcase prototyping some of the latest technology
 
 
-* Microsoft .NET 8 Blazor WebAssembly Front End [....✅]
+* Microsoft .NET 8 Blazor WebAssembly Front End ✅
 
-* Self-contained Docker container utilising NGINX ingress proxy [....✅]
+* Self-contained Docker container utilising NGINX ingress proxy ✅
 
-* CI/CD via GitHub Actions [....✅]
+* CI/CD via GitHub Actions ✅
 
-* Deployed on Microsoft Azure Container Apps [....✅]
+* Deployed on Microsoft Azure Container Apps ✅
 
-* Encrypted local storage of notes [....✅]
+* Encrypted local storage of notes ✅
 
-* .NET MAUI Cross Platform compilation [....✅]
+* .NET MAUI Cross Platform compilation ✅
 
 * .NET MAUI Windows Desktop release [....🔧]
 
