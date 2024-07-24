@@ -1,5 +1,3 @@
-## **Hyperspace Technologies** 
-
 **https://hyper.ky** 
 
 simple showcase prototyping some of the latest technology
