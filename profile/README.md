@@ -38,3 +38,5 @@ simple showcase prototyping some of the latest technology
 * Maps demo (Google Maps / ArcGIS?) [🕛]
 
 * Offline mode demo [🕛]
+
+* Multi Cloud [🕛]
