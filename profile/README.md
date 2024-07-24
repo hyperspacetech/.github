@@ -9,10 +9,6 @@ simple showcase prototyping some of the latest technology
 
 * CI/CD via GitHub Actions ✅
 
-* ~~Self-contained Docker container utilising NGINX ingress proxy ✅~~
-
-* ~~Deployed on Microsoft Azure Container Apps ✅~~
-
 * Deployed as Azure Static Web App ✅
 
 * Encrypted local storage of notes ✅
@@ -42,3 +38,9 @@ simple showcase prototyping some of the latest technology
 * Offline mode demo [🕛]
 
 * Multi Cloud [🕛]
+
+**Deprecated**
+
+* ~~Self-contained Docker container utilising NGINX ingress proxy ✅~~
+
+* ~~Deployed on Microsoft Azure Container Apps ✅~~
