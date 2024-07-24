@@ -1,4 +1,4 @@
-**https://hyper.ky** 
+**https://hyper.ky**   ⬅️ click
 
 simple showcase prototyping some of the latest technology
 
