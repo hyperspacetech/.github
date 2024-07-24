@@ -2,7 +2,8 @@
 
 **Hyperspace Technologies** 
 
-**https://hyper.ky** (simple showcase prototyping some of the latest technology)
+**https://hyper.ky** 
+simple showcase prototyping some of the latest technology
 
 
 Microsoft .NET 8 Blazor WebAssembly [....✅]
