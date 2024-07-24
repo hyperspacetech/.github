@@ -9,9 +9,9 @@ simple showcase prototyping some of the latest technology
 
 * CI/CD via GitHub Actions ✅
 
-~~* Self-contained Docker container utilising NGINX ingress proxy ✅~~
+* ~~Self-contained Docker container utilising NGINX ingress proxy ✅~~
 
-~~* Deployed on Microsoft Azure Container Apps ✅~~
+* ~~Deployed on Microsoft Azure Container Apps ✅~~
 
 * Deployed as Azure Static Web App ✅
 
