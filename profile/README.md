@@ -17,7 +17,7 @@ simple showcase prototyping some of the latest technology
 
 * .NET MAUI Windows Desktop release [....🔧]
 
-* Dark / Light mode toggle [....🔧]
+* Dark / Light mode toggle ✅
 
 * Google Play Store submission [..🔧]
 
