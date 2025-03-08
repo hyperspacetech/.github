@@ -2,14 +2,16 @@
 
 👆 click
 
-simple showcase prototyping some of the latest technology
-
+simple showcase prototyping some of the best technology
 
 * Microsoft .NET 8 Blazor WebAssembly Front End ✅
 
 * CI/CD via GitHub Actions ✅
-
-* Deployed as Azure Static Web App ✅
+* 
+* Deployed on Docker and Kubernetes on bare metal [..🔧]
+* Deployed on Docker and Kubernetes on Azure [🕛]
+* Deployed on Docker and Kubernetes on AWS [🕛]
+* Deployed on Docker and Kubernetes on GCP [🕛]
 
 * Encrypted local storage of notes ✅
 
@@ -27,7 +29,7 @@ simple showcase prototyping some of the latest technology
 
 * PostgreSQL database for note persistence [🕛]
 
-* Google / Microsoft / Social login (Keycloak) [🕛]
+* Google / Microsoft / Social login [🕛]
 
 * 2FA [🕛]
   
@@ -44,3 +46,7 @@ simple showcase prototyping some of the latest technology
 * ~~Self-contained Docker container utilising NGINX ingress proxy ✅~~
 
 * ~~Deployed on Microsoft Azure Container Apps ✅~~
+  
+* ~~Deployed as Azure Static Web App ✅~~
+  
+* ~~Deployed on AWS Amplify ✅~~
