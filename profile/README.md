@@ -28,6 +28,7 @@ simple showcase prototyping some of the best technology
 
 * Azure Functions Back End API (REST / Google Protobuf) [🕛]
 
+* Redis for note persistence [🕛]
 * PostgreSQL database for note persistence [🕛]
 
 * Google / Microsoft / Social login [🕛]
