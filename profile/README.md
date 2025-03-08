@@ -7,7 +7,8 @@ simple showcase prototyping some of the best technology
 * Microsoft .NET 8 Blazor WebAssembly Front End ✅
 
 * CI/CD via GitHub Actions ✅
-* 
+* CI/CD via Azure Pipelines [🕛]
+  
 * Deployed on Docker and Kubernetes on bare metal [..🔧]
 * Deployed on Docker and Kubernetes on Azure [🕛]
 * Deployed on Docker and Kubernetes on AWS [🕛]
