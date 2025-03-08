@@ -18,11 +18,11 @@ simple showcase prototyping some of the best technology
 
 * .NET MAUI Cross Platform compilation ✅
 
-* .NET MAUI Windows Desktop release [....🔧]
+* .NET MAUI Windows Desktop release [🕛]
 
 * Dark / Light mode toggle ✅
 
-* Google Play Store submission [..🔧]
+* Google Play Store submission [🕛]
 
 * Apple Store submission [🕛]
 
