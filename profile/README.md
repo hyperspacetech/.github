@@ -8,6 +8,8 @@ simple showcase prototyping some of the best technology
 
 * CI/CD via GitHub Actions ✅
 * CI/CD via Azure Pipelines [🕛]
+
+* Automated certificate generation and renewal ✅
   
 * Deployed on Docker and Kubernetes on bare metal [..🔧]
 * Deployed on Docker and Kubernetes on Azure [🕛]
