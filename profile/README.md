@@ -5,16 +5,18 @@
 simple showcase prototyping some of the best technology
 
 * Microsoft .NET 8 Blazor WebAssembly Front End ✅
+* Microsoft .NET 8 REST API ✅
+* Hosting platform detection endpoint and icons ✅
 
 * CI/CD via GitHub Actions ✅
 * CI/CD via Azure Pipelines [🕛]
 
 * Automated certificate generation and renewal ✅
   
-* Deployed on Docker and Kubernetes on bare metal [..🔧]
-* Deployed on Docker and Kubernetes on Azure [🕛]
-* Deployed on Docker and Kubernetes on AWS [🕛]
-* Deployed on Docker and Kubernetes on GCP [🕛]
+* Deployed on Docker on bare metal [..🔧]
+* Deployed on Docker on Azure ✅
+* Deployed on Docker on AWS ✅
+* Deployed on Docker on GCP [🕛]
 
 * Encrypted local storage of notes ✅
 
@@ -27,8 +29,6 @@ simple showcase prototyping some of the best technology
 * Google Play Store submission [🕛]
 
 * Apple Store submission [🕛]
-
-* Azure Functions Back End API (REST / Google Protobuf) [🕛]
 
 * Redis for note persistence [🕛]
 * PostgreSQL database for note persistence [🕛]
@@ -43,7 +43,7 @@ simple showcase prototyping some of the best technology
 
 * Offline mode demo [🕛]
 
-* Multi Cloud [🕛]
+* Multi Cloud ✅
 
 **Deprecated**
 
@@ -54,3 +54,5 @@ simple showcase prototyping some of the best technology
 * ~~Deployed as Azure Static Web App ✅~~
   
 * ~~Deployed on AWS Amplify ✅~~
+  
+* ~~Azure Functions Back End API (REST / Google Protobuf) [🕛]~~
