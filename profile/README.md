@@ -1,11 +1,11 @@
-**https://hyper.ky**   
+**https://hyperspace.au**   
 
 👆 click
 
-simple showcase prototyping some of the best technology
+simple showcase prototyping some of my favourite technology
 
-* Microsoft .NET 8 Blazor WebAssembly Front End ✅
-* Microsoft .NET 8 REST API ✅
+* Microsoft .NET 9 Blazor WebAssembly Front End ✅
+* Microsoft .NET 9 REST API ✅
 * Hosting platform detection endpoint and icons ✅
 
 * CI/CD via GitHub Actions ✅
@@ -31,6 +31,7 @@ simple showcase prototyping some of the best technology
 * Apple Store submission [🕛]
 
 * Redis for note persistence [🕛]
+  
 * PostgreSQL database for note persistence [🕛]
 
 * Google / Microsoft / Social login [🕛]
@@ -39,7 +40,7 @@ simple showcase prototyping some of the best technology
   
 * Charts demo [🕛]
   
-* Maps demo (Google Maps / ArcGIS?) [🕛]
+* Maps demo [🕛]
 
 * Offline mode demo [🕛]
 
